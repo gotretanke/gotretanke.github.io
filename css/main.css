@@ -1,0 +1,28 @@
+html, body{
+  height: 100%;
+}
+ 
+body{
+  overflow: hidden;
+  background-color: #62B8FA;
+  padding-top: 150px;
+  font-family: 'Mountains of Christmas', cursive;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.slider{
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    border: 2px solid #F2C742;
+    padding: 1em;
+    text-align: center;
+    width: 600px;
+    border-radius: 30px;
+    background-color: #F8F5AB;
+}
+
+img{
+  width: 100%;
+}
